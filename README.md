@@ -1,2 +1,2 @@
 # tippecanoe-docker
-TippeCanoe on DockerHub
+TippeCanoe on GitHub registry
