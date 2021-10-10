@@ -1,5 +1,5 @@
 # Start from ubuntu
-FROM ubuntu:17.04
+FROM ubuntu
 
 # Update repos and install dependencies
 RUN apt-get update \
